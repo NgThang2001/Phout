@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695396938254",
+    "project_id": "phout-25f49",
+    "storage_bucket": "phout-25f49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695396938254:android:a418b4da528e0563c8c25f",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwewILZ66MNNKjEx_2i_Kw5YK_bCp1AaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
